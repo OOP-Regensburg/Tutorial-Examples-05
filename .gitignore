@@ -1,6 +1,7 @@
 # IntelliJ
 
 .idea/vcs.xml
+.idea/workspace.xml
 .idea/dictionaries
 .idea/uiDesigner.xml
 out/
